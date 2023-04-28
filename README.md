@@ -1,2 +1,205 @@
 # 2384
 Net Core 2022视频教程 （NET 6教程 ）
+### 微:NoBug1024 
+
+
+课程介绍：
+
+〖课程目录〗:
+
+- ├──1-Part1-0学前说明.mp4  68.65M
+- ├──10-Part2-3异步编程1.mp4  62.32M
+- ├──100-Part4-5：C#新语法5record的原理及深入.mp4  70.95M
+- ├──101-Part4-6：ASP.NET Core入门.mp4  71.97M
+- ├──102-Part4-7：ASP.NET Core MVC.mp4  69.79M
+- ├──103-Part4-8：ASP.NETCore开发效率利器HotReload.mp4  37.27M
+- ├──104-Part4-9：ASP.NETCore WebAPI入门1.mp4  41.37M
+- ├──105-Part4-10：ASP.NETCore WebAPI入门2.mp4  25.37M
+- ├──106-Part4-11：什么是REST.mp4  116.42M
+- ├──107-Part4-12：REST的优缺点.mp4  89.61M
+- ├──108-Part4-13：Restful中如何传递参数.mp4  51.31M
+- ├──109-Part4-14：Web API如何返回状态码.mp4  68.75M
+- ├──11-Part2-4异步编程2 async await基本使用.mp4  52.76M
+- ├──110-Part4-15：ASP.NETCore中REST落地指南.mp4  89.17M
+- ├──111-Part4-16：ASP.NETCore WebAPI的异步及返回值.mp4  106.45M
+- ├──112-Part4-17：ASP.NETCore Web API的参数问题.mp4  109.39M
+- ├──113-Part4-18：ASP.NET Core前后端分离开发1.mp4  150.44M
+- ├──114-Part4-19：ASP.NET Core前后端分离开发2.mp4  71.23M
+- ├──115-Part4-20：ASP.NET Core前后端分离开发3.mp4  178.62M
+- ├──116-Part4-21：ASP.NET Core中依赖注入的使用.mp4  53.61M
+- ├──117-Part4-22：案例：各项目自己进行服务的注册.mp4  69.71M
+- ├──118-Part4-23：程序员的性能优化万金油：缓存.mp4  34.47M
+- ├──119-Part4-24：ASP.NET Core客户端响应缓存.mp4  18.32M
+- ├──12-Part2-5：异步编程3-编写异步方法.mp4  67.42M
+- ├──120-Part4-25：鸡肋的ASP.NET Core服务器端响应缓存.mp4  80.74M
+- ├──121-Part4-26：ASP.NETCore中的内存缓存.mp4  97.03M
+- ├──122-Part4-27：ASP.NETCore缓存的过期时间策略.mp4  69.39M
+- ├──123-Part4-28：ASP.NET Core缓存穿透的问题.mp4  41.81M
+- ├──124-Part4-29：ASP.NETCore缓存雪崩的问题.mp4  34.49M
+- ├──125-Part4-30：封装内存缓存操作的帮助类.mp4  54.55M
+- ├──126-Part4-31：ASP.NETCore分布式缓存.mp4  92.29M
+- ├──127-Part4-32：封装分布式缓存操作的帮助类.mp4  36.20M
+- ├──128-Part4-33：ASP.NETcore与配置系统的集成.mp4  76.87M
+- ├──129-Part4-34：.NETCore防止机密信息外泄到github.mp4  56.98M
+- ├──13-Part2-6：异步编程4 async、await原理揭秘.mp4  51.01M
+- ├──130-Part4-35：ASP.NETCore配置系统综合案例.mp4  90.02M
+- ├──131-Part4-36：多层项目中EFCore的使用.mp4  219.17M
+- ├──132-Part4-37：案例：复杂.NETCore项目中批量注册上下文.mp4  59.15M
+- ├──133-Part4-38：ExceptionFilter异常筛选器.mp4  115.97M
+- ├──134-Part4-39：ASP.NETCore中的ActionFilter.mp4  45.65M
+- ├──135-Part4-40：案例：自动启用事务的ActionFilter.mp4  170.49M
+- ├──136-Part4-41：案例：对请求限速的ActionFilter.mp4  53.82M
+- ├──137-Part4-42：ASP.NETCore中中间件的概念.mp4  32.71M
+- ├──138-Part4-43：中间件的基本使用.mp4  34.56M
+- ├──139-Part4-44：ASP.NETCore的中间件类.mp4  82.03M
+- ├──14-Part2-7：异步编程5 async背后的线程切换.mp4  38.93M
+- ├──140-Part4-45：案例：徒手撸一个WebAPI框架.mp4  88.73M
+- ├──141-Part4-46：案例：编写Markdown渲染中间件.mp4  105.27M
+- ├──142-Part4-47：ASP.NETCore中间件和Filter的区别.mp4  37.73M
+- ├──143-Part5-1：ASP.NET Core标识框架1.mp4  152.66M
+- ├──144-Part5-2：ASP.NET Core标识框架2.mp4  119.78M
+- ├──145-Part5-3：ASP.NET Core实现密码的重置.mp4  55.25M
+- ├──146-Part5-4：代替Session的JWT是什么.mp4  50.78M
+- ├──147-Part5-5：.NET Core中JWT的基本使用.mp4  109.49M
+- ├──148-Part5-6：ASP.NET Core对JWT的封装实现RBAC.mp4  133.61M
+- ├──149-Part5-7：让Swagger中带JWT报文头.mp4  23.92M
+- ├──15-Part2-8：异步编程6 异步方法不等于多线程.mp4  28.57M
+- ├──150-Part5-8：解决JWT无法提前撤回的难题.mp4  141.40M
+- ├──151-Part5-9：托管服务的使用.mp4  61.44M
+- ├──152-Part5-10：案例：定时导出数据.mp4  43.87M
+- ├──153-Part5-11：.NET内置数据校验的不足.mp4  25.10M
+- ├──154-Part5-12：FluentValidation的基本使用.mp4  43.52M
+- ├──155-Part5-13：FluentValidation中注入服务.mp4  32.27M
+- ├──156-Part5-14：什么是WebSocket、SignalR.mp4  62.36M
+- ├──157-Part5-15：ASP.NET Core SignalR的基本使用.mp4  134.46M
+- ├──158-Part5-16：SignalR的协议协商问题.mp4  85.55M
+- ├──159-Part5-17：SignalR的分布式部署.mp4  22.77M
+- ├──16-Part2-9：异步编程7 为什么有的异步方法没标async.mp4  42.90M
+- ├──160-Part5-18：SignalR身份认证.mp4  132.69M
+- ├──161-Part5-19：SignalR向部分客户端发送消息.mp4  83.15M
+- ├──162-Part5-20：外部向SignalR的Hub发送消息.mp4  52.20M
+- ├──163-Part5-21：SignalR案例：导入英汉词典.mp4  185.07M
+- ├──164-Part5-22：ASP.NETCore程序的发布.mp4  136.20M
+- ├──165-Part6-1：软件架构设计的怪现状.mp4  81.10M
+- ├──166-Part6-2：什么是微服务.mp4  43.97M
+- ├──167-Part6-3：什么是DDD，应该怎么学.mp4  58.68M
+- ├──168-Part6-4：DDD之领域模型与事务脚本.mp4  84.92M
+- ├──169-Part6-5：DDD之通用语言、界限上下文.mp4  20.10M
+- ├──17-Part2-10：异步编程8 不要用Sleep.mp4  27.35M
+- ├──170-Part6-6DDD之实体与值对象.mp4  37.68M
+- ├──171-Part6-7DDD之聚合与聚合根.mp4  91.90M
+- ├──172-Part6-8DDD之领域服务与应用服务.mp4  75.14M
+- ├──173-Part6-9DDD之领域事件、集成事件.mp4  68.92M
+- ├──174-Part6-10.NET的充血模型与贫血模型.mp4  64.60M
+- ├──175-Part6-11EFCore对实体属性操作的秘密.mp4  64.56M
+- ├──176-Part6-12EFCore中充血模型的需求.mp4  50.51M
+- ├──177-Part6-13EFCore中实现充血模型.mp4  67.30M
+- ├──178-Part6-14：EFCore中实现值对象.mp4  214.65M
+- ├──179-Part6-15：构建表达式树简化值对象的比较.mp4  31.47M
+- ├──18-Part2-11：异步编程9 CancellationToken.mp4  100.71M
+- ├──180-Part6-16：DDD聚合在.NET中的实现.mp4  203.84M
+- ├──181-Part6-17：用MediatR实现领域事件.mp4  37.73M
+- ├──182-Part6-18：EF Core中发布领域事件的合适时机.mp4  122.06M
+- ├──183-Part6-19：RabbitMQ简介.mp4  57.96M
+- ├──184-Part6-20：.NET中RabbitMQ的基本使用.mp4  104.01M
+- ├──185-Part6-21：.NET中简化DDD集成事件的框架.mp4  103.36M
+- ├──186-Part6-22：集成事件框架Zack.EventBus源代码讲解.mp4  61.28M
+- ├──187-Part6-23：什么是洋葱架构(整洁架构).mp4  152.26M
+- ├──188-Part6-24：DDD实战-项目分层.mp4  70.48M
+- ├──189-Part6-25：DDD实战-领域模型的实现.mp4  88.65M
+- ├──19-Part2-12：异步编程10 WhenAll.mp4  29.98M
+- ├──190-Part6-26：DDD实战-领域服务的实现.mp4  90.57M
+- ├──191-Part6-27：DDD实战-基础设施的实现.mp4  98.04M
+- ├──192-Part6-28：DDD实战-工作单元的实现.mp4  94.72M
+- ├──193-Part6-29：DDD实战-应用层的实现.mp4  150.02M
+- ├──194-这不是最后一节课.mp4  9.45M
+- ├──2-Part1-1什么是.NET Core.mp4  81.72M
+- ├──20-Part2-13：异步编程11 异步其他问题.mp4  37.43M
+- ├──21-Part2-14：LINQ 1 为啥要学LINQ.mp4  34.95M
+- ├──22-Part2-15：LINQ 2 Lambda是怎么来的.mp4  36.92M
+- ├──23-Part2-16：LINQ 3 揭秘LINQ方法的背后.mp4  43.36M
+- ├──24-Part2-17：LINQ 4 常用扩展方法1.mp4  30.28M
+- ├──25-Part2-18：LINQ 5 常用扩展方法2.mp4  64.45M
+- ├──26-Part2-19：LINQ 6 常用扩展方法3.mp4  29.48M
+- ├──27-Part2-20：LINQ 7 常用扩展方法4.mp4  46.51M
+- ├──28-Part2-21：LINQ 8 链式调用.mp4  24.37M
+- ├──29-Part2-22：LINQ 9 LINQ另一种倩影.mp4  22.56M
+- ├──3-Part1-2.NET Core的重要问题.mp4  56.29M
+- ├──30-Part2-23：LINQ 10 LINQ解决面试问题.mp4  40.41M
+- ├──31-Part2-24：依赖注入1_概念.mp4  28.56M
+- ├──32-Part2-25：依赖注入2_.NET中DI服务注册.mp4  48.34M
+- ├──33-Part2-26：依赖注入3_服务的生命周期.mp4  45.52M
+- ├──34-Part2-27：依赖注入4_服务定位器.mp4  40.40M
+- ├──35-Part2-28：依赖注入5_.NET依赖注入.mp4  53.61M
+- ├──36-Part2-29：依赖注入6_DI综合案例-1.mp4  70.45M
+- ├──37-Part2-30：依赖注入6_DI综合案例-2.mp4  63.67M
+- ├──38-Part2-31：依赖注入6_DI综合案例-3.mp4  63.84M
+- ├──39-Part2-32：配置系统1_入门.mp4  60.17M
+- ├──4-Part1-3.NET Standard.mp4  96.44M
+- ├──40-Part2-33：配置系统2_选项方式读取配置.mp4  65.56M
+- ├──41-Part2-34：配置系统3_其他配置提供者.mp4  61.28M
+- ├──42-Part2-35：配置系统4_开发自己的配置提供者，从学习者到创造者.mp4  160.54M
+- ├──43-Part2-36：配置系统5_开发数据库配置提供者.mp4  95.07M
+- ├──44-Part2-37：配置系统6_多配置源的优先级.mp4  44.29M
+- ├──45-Part2-38：.NET日志系统1_什么是Logging.mp4  106.22M
+- ├──46-Part2-39：.NET日志系统2_NLog.mp4  81.41M
+- ├──47-Part2-40：.NET日志系统3_NLog深入.mp4  75.13M
+- ├──48-Part2-41：.NET日志系统4_结构化日志和集中日志服务.mp4  140.32M
+- ├──49-Part3-EF Core-1-EFCore简介.mp4  139.21M
+- ├──5-Part1-4关于.NET5和6版本的说明.mp4  7.86M
+- ├──50-Part3-EF Core-2-搭建EFCore开发环境.mp4  130.33M
+- ├──51-Part3-EF Core-3-EFCore数据的增删改查.mp4  77.00M
+- ├──52-Part3-EF Core4-FluentAPI哪些不该用.mp4  118.58M
+- ├──53-Part3-EF Core5-说FluentAPI的时候我们在说啥.mp4  42.18M
+- ├──54-Part3-EF Core6-主键无小事.mp4  108.48M
+- ├──55-Part3-7：EFCore Migration深入.mp4  44.34M
+- ├──56-Part3-8：EFCore其他迁移命令.mp4  69.29M
+- ├──57-Part3-9：EFCore反向工程.mp4  53.17M
+- ├──58-Part3-10：EFCore如何操作数据库.mp4  48.05M
+- ├──59-Part3-11：什么是EFCore做不到的.mp4  52.40M
+- ├──6-Part1-5NET开发环境安装配置.mp4  112.13M
+- ├──60-Part3-12：通过代码查看EFCore的SQL语句.mp4  78.51M
+- ├──61-Part3-13：同样的LINQ被翻译为不同的SQL语句.mp4  177.64M
+- ├──62-Part3-14：EF Core一对多关系配置.mp4  133.39M
+- ├──63-Part3-15：EF Core一对多关系数据的获取.mp4  41.82M
+- ├──64-Part3-16：EF Core额外的外键字段.mp4  64.43M
+- ├──65-Part3-17：EF Core单向导航属性.mp4  82.52M
+- ├──66-Part3-18：EF Core关系配置在任何一方都可以.mp4  28.57M
+- ├──67-Part3-19：EF Core自引用的组织结构树.mp4  147.05M
+- ├──68-Part3-20：EF Core一对一.mp4  58.54M
+- ├──69-Part3-21：EF Core多对多.mp4  62.88M
+- ├──7-Part1-6 .NET项目结构及程序发布.mp4  85.34M
+- ├──70-Part3-22：EF Core基于关系的复杂查询.mp4  46.06M
+- ├──71-Part3-23：EF Core有了IEnumerable还要IQueryable干什么.mp4  51.63M
+- ├──72-Part3-24：EF Core客户端评估有时候也很可爱.mp4  41.25M
+- ├──73-Part3-25：EF Core IQueryable的延迟执行.mp4  138.40M
+- ├──74-Part3-26：EF Core IQueryable的复用.mp4  22.00M
+- ├──75-Part3-27：EF Core 分页查询.mp4  66.87M
+- ├──76-Part3-28：IQueryable是一次性把数据都加载到内存吗.mp4  110.38M
+- ├──77-Part3-29：EF Core中的异步方法.mp4  56.73M
+- ├──78-Part3-30：EF Core执行非查询原生SQL语句.mp4  97.35M
+- ├──79-Part3-31：EF Core执行实体相关查询原生SQL语句.mp4  67.51M
+- ├──8-Part2-1-NuGet1.mp4  77.07M
+- ├──80-Part3-32：EF Core执行任意原生SQL查询语句.mp4  76.46M
+- ├──81-Part3-33：EF Core如何知道实体数据变了.mp4  73.77M
+- ├──82-Part3-34：EF Core优化之AsNoTracking.mp4  21.37M
+- ├──83-Part3-35：EF Core实体状态跟踪的妙用.mp4  55.91M
+- ├──84-Part3-36：EFCore如何批量删除、新增、修改、插入.mp4  115.32M
+- ├──85-Part3-37：EF Core全局查询筛选器.mp4  93.36M
+- ├──86-Part3-38：EF Core悲观并发控制.mp4  148.90M
+- ├──87-Part3-39：EF Core乐观并发控制：并发令牌.mp4  60.10M
+- ├──88-Part3-40：EF Core乐观并发控制：RowVersion.mp4  63.16M
+- ├──89-Part3-41：什么是表达式树，Expression和Func的区别.mp4  69.96M
+- ├──9-Part2-2-NuGet2.mp4  48.26M
+- ├──90-Part3-42：查看表达式树的结构.mp4  52.95M
+- ├──91-Part3-43：通过代码动态构造表达式树.mp4  65.55M
+- ├──92-Part3-44：让动态构建表达式树更简单.mp4  45.24M
+- ├──93-Part3-45：让动态构建表达式树“动态”起来.mp4  95.63M
+- ├──94-Part3-46：不用Emit生成IL代码实现Select的动态化.mp4  75.37M
+- ├──95-Part3-47：尽量避免使用动态构建表达式树.mp4  72.82M
+- ├──96-Part4-1：C#新语法1.mp4  59.67M
+- ├──97-Part4-2：C#新语法2.mp4  56.07M
+- ├──98-Part4-3：C#新语法3可空引用类型.mp4  41.21M
+- ├──99-Part4-4：C#新语法4record基础.mp4  40.03M
+- └──NETBookMaterials-main.zip  491.61M
+
